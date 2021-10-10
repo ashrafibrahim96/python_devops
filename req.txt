@@ -2,4 +2,7 @@ Flask
 SQLAlchemy
 Flask-SQLAlchemy
 pytest
+<<<<<<< HEAD:req.txt
 project
+=======
+>>>>>>> 7abe2d6082ed13c0b23d7c9f9d3ec943ac88437c:project/req.txt

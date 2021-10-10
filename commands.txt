@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 pip install -r req.txt
+=======
+pip install -r req.txt
+>>>>>>> 7abe2d6082ed13c0b23d7c9f9d3ec943ac88437c
